@@ -1,0 +1,1 @@
+export const EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY = 'pk_test_Y2hhbXBpb24tbWFybW9zZXQtNDEuY2xlcmsuYWNjb3VudHMuZGV2JA'
